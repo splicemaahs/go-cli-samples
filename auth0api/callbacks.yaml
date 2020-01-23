@@ -1,0 +1,31 @@
+callbacks:
+- https://aks-dev1admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-dev2admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-dev3admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-dev4admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-dev5admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-test1admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-test2admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-test3admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-test4admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-test5admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-dev1admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-dev2admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-dev3admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-dev4admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-dev5admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-test1admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-test2admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-test3admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-test4admin.dev.splicemachine-dev.io/oauth2/callback
+- https://eks-test5admin.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-test4admin-hdfs.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-test4admin-hbase.dev.splicemachine-dev.io/oauth2/callback
+- https://aks-dev3.dev.splicemachine-dev.io/login
+- https://shortround-aks-dev4admin-hdfs.dev.splicemachine-dev.io/login
+- https://shortround-aks-dev4admin-hdfs.dev.splicemachine-dev.io/oauth2/callback
+- https://shortround-aks-dev4admin-hbase.dev.splicemachine-dev.io/oauth2/callback
+- https://drjones-aks-dev4admin-hdfs.dev.splicemachine-dev.io/login
+- https://drjones-aks-dev4admin-hdfs.dev.splicemachine-dev.io/oauth2/callback
+- https://drjones-aks-dev4admin-hbase.dev.splicemachine-dev.io/oauth2/callback
+
